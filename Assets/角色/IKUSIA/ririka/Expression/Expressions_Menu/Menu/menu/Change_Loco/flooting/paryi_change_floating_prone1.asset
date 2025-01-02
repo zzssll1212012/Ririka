@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_change_floating_prone1
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: reset
+    icon: {fileID: 2800000, guid: a4066724f975413468912a1ea255e502, type: 3}
+    type: 101
+    parameter:
+      name: paryi_floating
+    value: -1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone1
+    icon: {fileID: 2800000, guid: 640c1b4209ad1a9499b1d309aef92723, type: 3}
+    type: 102
+    parameter:
+      name: paryi_floating
+    value: 0.13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone2
+    icon: {fileID: 2800000, guid: 72f948ab1e9fee2499cfa92c029c2102, type: 3}
+    type: 102
+    parameter:
+      name: paryi_floating
+    value: 0.14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone3
+    icon: {fileID: 2800000, guid: 68ab19fde78ff344c9cb0d1c41e1db11, type: 3}
+    type: 102
+    parameter:
+      name: paryi_floating
+    value: 0.15
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone4
+    icon: {fileID: 2800000, guid: 4d2745701f4b77a49a5259f4ebd14e7e, type: 3}
+    type: 102
+    parameter:
+      name: paryi_floating
+    value: 0.16
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone5
+    icon: {fileID: 2800000, guid: e7ee060d11816224bab40081805dbf0d, type: 3}
+    type: 102
+    parameter:
+      name: paryi_floating
+    value: 0.32
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone6
+    icon: {fileID: 2800000, guid: 9bd869513944098459e2e78453ec32f8, type: 3}
+    type: 102
+    parameter:
+      name: paryi_floating
+    value: 0.33
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

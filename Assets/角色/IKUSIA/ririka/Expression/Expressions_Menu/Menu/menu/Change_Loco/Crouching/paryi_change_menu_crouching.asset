@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_change_menu_crouching
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: reset
+    icon: {fileID: 2800000, guid: a4066724f975413468912a1ea255e502, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Crouching
+    value: -1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Menu1
+    icon: {fileID: 2800000, guid: 1bc8f6ef98ce3e5448b85b62edcaa451, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0.22
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3c93e324688232240a959de036580763, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu2
+    icon: {fileID: 2800000, guid: 24fc4149bdc92d1438bea09eac274aa6, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0.23
+    style: 0
+    subMenu: {fileID: 11400000, guid: 998b870e538d9e44e864f8f4a8628b62, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu3
+    icon: {fileID: 2800000, guid: c1389cbe62d86fb4aac5e5d8fbae8eb5, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 34a68ec110dbeae48a0a17b4f4448806, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu4
+    icon: {fileID: 2800000, guid: 4f05f32440b0bdf4985a6655d9159d87, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: cbbbdff31e9f78545b4de1d54a08b4be, type: 2}
+    subParameters: []
+    labels: []
+  - name: Mirror
+    icon: {fileID: 2800000, guid: e2509189d17957b42a1234dc14879e92, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Mirror_C
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: leg fixed
+    icon: {fileID: 2800000, guid: 36ba099feb0e49a45a03051e461c6785, type: 3}
+    type: 102
+    parameter:
+      name: leg fixed
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

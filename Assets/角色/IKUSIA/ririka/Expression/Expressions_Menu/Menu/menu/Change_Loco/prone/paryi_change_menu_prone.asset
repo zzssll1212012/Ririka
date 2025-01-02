@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_change_menu_prone
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: reset
+    icon: {fileID: 2800000, guid: a4066724f975413468912a1ea255e502, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Prone
+    value: -1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Menu1
+    icon: {fileID: 2800000, guid: a3ad7eb7ee9858144b62eae96d1f7fdf, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0.21
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1a5aba0a949cba44bb3dca4c35cf6ec6, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu2
+    icon: {fileID: 2800000, guid: 640c1b4209ad1a9499b1d309aef92723, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0.22
+    style: 0
+    subMenu: {fileID: 11400000, guid: 9bd64e7c0170bdd45b1b0e4b8bbc6add, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu3
+    icon: {fileID: 2800000, guid: 8d5178c174afcfc4e9145c2fe8c092a9, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 7917a56a1d76c8a4ba8416a30e7f1b76, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu4
+    icon: {fileID: 2800000, guid: 993642fc2b72fac45b33b5e13cba0ac9, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c6cf744bc69b00647bebda8c58598e73, type: 2}
+    subParameters: []
+    labels: []
+  - name: Mirror
+    icon: {fileID: 2800000, guid: e2509189d17957b42a1234dc14879e92, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Mirror_P
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: leg fixed
+    icon: {fileID: 2800000, guid: 36ba099feb0e49a45a03051e461c6785, type: 3}
+    type: 102
+    parameter:
+      name: leg fixed
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

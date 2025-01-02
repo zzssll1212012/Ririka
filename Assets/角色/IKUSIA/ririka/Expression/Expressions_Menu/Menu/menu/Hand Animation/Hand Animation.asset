@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Hand Animation
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 9bf2485bac96035458605382b60de15d, type: 2}
+  controls:
+  - name: ago
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e78fe6bb9cfd65047ba00287087c8418, type: 2}
+    subParameters: []
+    labels: []
+  - name: flont
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fe5be89728e4dd84e9cd528b54101493, type: 2}
+    subParameters: []
+    labels: []
+  - name: love
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 470dfbc859458344596e3ee09f155cdd, type: 2}
+    subParameters: []
+    labels: []
+  - name: love2
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b0168a7bdb4b2eb459da7ca040752193, type: 2}
+    subParameters: []
+    labels: []
+  - name: oshitoyaka
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 36d5cf07360a6c04d8012c161f6e9c97, type: 2}
+    subParameters: []
+    labels: []
+  - name: piece
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 668ac7a6d4c656a44bdddf74e6a0ad32, type: 2}
+    subParameters: []
+    labels: []
+  - name: mesugaki
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d48db113aee5063448f21128a23f00e3, type: 2}
+    subParameters: []
+    labels: []
+  - name: Mirror
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: HandAnimationMirror
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d48db113aee5063448f21128a23f00e3, type: 2}
+    subParameters: []
+    labels: []

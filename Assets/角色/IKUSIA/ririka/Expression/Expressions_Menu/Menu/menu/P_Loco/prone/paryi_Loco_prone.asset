@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_Loco_prone
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Menu1
+    icon: {fileID: 2800000, guid: a3ad7eb7ee9858144b62eae96d1f7fdf, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1d9f810884569484a96b6d82aa535a06, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu2
+    icon: {fileID: 2800000, guid: 640c1b4209ad1a9499b1d309aef92723, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c34ef03cf3941ce45ba7ec61bd819f5c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu3flooting
+    icon: {fileID: 2800000, guid: 94b226458c439b14bbfb74957bfb1c6d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d4c37a4196a18104b80db538f1292848, type: 2}
+    subParameters: []
+    labels: []
+  - name: Menu4flooting
+    icon: {fileID: 2800000, guid: d802da53119ab124b89f929626311f0a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 502ebe4b5dbb34140beba7da08239c1e, type: 2}
+    subParameters: []
+    labels: []
+  - name: reset
+    icon: {fileID: 2800000, guid: a4066724f975413468912a1ea255e502, type: 3}
+    type: 101
+    parameter:
+      name: Action_Mode_Reset
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: takasa
+    icon: {fileID: 2800000, guid: a62c56c38b6c6ea47855a046c9c0a2e9, type: 3}
+    type: 203
+    parameter:
+      name: takasa_Toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: takasa
+    labels: []

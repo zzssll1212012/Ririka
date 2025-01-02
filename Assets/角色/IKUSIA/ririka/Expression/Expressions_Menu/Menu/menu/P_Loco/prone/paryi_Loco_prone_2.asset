@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_Loco_prone_2
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Mirror
+    icon: {fileID: 2800000, guid: e2509189d17957b42a1234dc14879e92, type: 3}
+    type: 102
+    parameter:
+      name: Mirror
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone7
+    icon: {fileID: 2800000, guid: 4d2745701f4b77a49a5259f4ebd14e7e, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.52
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone8
+    icon: {fileID: 2800000, guid: 640c1b4209ad1a9499b1d309aef92723, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.53
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone9
+    icon: {fileID: 2800000, guid: 72f948ab1e9fee2499cfa92c029c2102, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.54
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone10
+    icon: {fileID: 2800000, guid: e7ee060d11816224bab40081805dbf0d, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.86
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone11
+    icon: {fileID: 2800000, guid: 9bd869513944098459e2e78453ec32f8, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.87
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Gimmick2Face
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: FaceLock
+    icon: {fileID: 2800000, guid: 5061ca5cc70169d4b9c6456781234fef, type: 3}
+    type: 102
+    parameter:
+      name: FaceLock
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Face_variation
+    icon: {fileID: 2800000, guid: 10ee6dcbcef064941b565655d72d86c7, type: 3}
+    type: 102
+    parameter:
+      name: Face_variation
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blink off
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Blink off
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u306A\u3067\u306A\u3067"
+    icon: {fileID: 2800000, guid: 3d57abf53dd14124ca49b2271ce4d7cd, type: 3}
+    type: 102
+    parameter:
+      name: Nade
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u565B\u307F\u3064\u304D\u7981\u6B62"
+    icon: {fileID: 2800000, guid: 74fd5a94afe81b9468260a5a195d3a1d, type: 3}
+    type: 102
+    parameter:
+      name: Kamituki
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

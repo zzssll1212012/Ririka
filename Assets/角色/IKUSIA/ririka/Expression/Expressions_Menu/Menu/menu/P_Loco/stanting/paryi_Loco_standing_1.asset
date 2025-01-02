@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_Loco_standing_1
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Mirror
+    icon: {fileID: 2800000, guid: e2509189d17957b42a1234dc14879e92, type: 3}
+    type: 102
+    parameter:
+      name: Mirror
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing1
+    icon: {fileID: 2800000, guid: d9e4f69112d092f408d4ab4b5ad88a80, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.03
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing2
+    icon: {fileID: 2800000, guid: 22d7387a5a1bb124d927fc81c3a1fe62, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.06
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing3
+    icon: {fileID: 2800000, guid: edbe0a33bfe6f364f99c9c350bd2c8c7, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.07
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing4
+    icon: {fileID: 2800000, guid: 0ce84dfe062ecdf4887dda73ec51059d, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.08
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing5
+    icon: {fileID: 2800000, guid: 8d2590fcb956ad14ca55b2c7db1a6686, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.09
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

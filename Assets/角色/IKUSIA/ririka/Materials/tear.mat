@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tear
+  m_Shader: {fileID: 4800000, guid: 3021bf82084b40047a0d65bf5959b5d7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _3:
+        m_Texture: {fileID: 2800000, guid: 1bb938655d6395d4cba1bc0cb9c37020, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseTear_tex:
+        m_Texture: {fileID: 2800000, guid: 313d8474ac1ec0249a64a5aa1ac241e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tear_tex:
+        m_Texture: {fileID: 2800000, guid: 73da8eed48f466d45ac1e922f44fb72a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tear_tex1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tear_tex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_dropNor:
+        m_Texture: {fileID: 2800000, guid: 1dcddff6b05c76245be5992d68da0fab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_dropTear:
+        m_Texture: {fileID: 2800000, guid: 1bb938655d6395d4cba1bc0cb9c37020, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_mainNOr:
+        m_Texture: {fileID: 2800000, guid: 05a42f09af33e1f4da4b651d42aa58f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_mainTear:
+        m_Texture: {fileID: 2800000, guid: 8f0904536d0eb3d4f97492e06fab3fb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_mainTear1:
+        m_Texture: {fileID: 2800000, guid: 8b5e5f37e257f2d4a8d0401fc32e3754, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_mainTear2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_mainTear3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: a58d569eb8f1a8744a438c740a431a3a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: b76955d9083f23240865df18739cc92a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mastear:
+        m_Texture: {fileID: 2800000, guid: 1fd8c1945022dfb40910d7768358018d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tear44:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex:
+        m_Texture: {fileID: 2800000, guid: 1bb938655d6395d4cba1bc0cb9c37020, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ChromaticAberration: 0.1
+    - _Cutoff: 0.5
+    - _Float0: 0.69
+    - _Float2: 0.2828
+    - _TransAmbient: 0.2
+    - _TransDirect: 1
+    - _TransNormalDistortion: 0.1
+    - _TransScattering: 2
+    - _TransShadow: 0.9
+    - _Translucency: 1
+    - __dirty: 0
+    - _emissive: 1
+    - _fade_point: 0.2876
+    - _nomal_density: 2.29
+    - _opacity: 1
+    - _tear_spead: 0.36
+    m_Colors:
+    - _01_base_pram_R: {r: 0.08, g: 5.9, b: 9, a: 0.5}
+    - _01_base_pram_R1: {r: 0, g: 1, b: 1, a: 1}
+    - _01_base_tiling_R: {r: 1.5, g: 10, b: 1, a: 0}
+    - _01_base_tiling_R1: {r: 1, g: 9, b: 0, a: 0}
+    - _02_sub_pram_R: {r: -0.41, g: 12.77, b: 23.57, a: 0.7}
+    - _02_sub_pram_R1: {r: 0, g: 1, b: 1, a: 1}
+    - _02_sub_tiling_R: {r: 4, g: 20, b: 0, a: 0}
+    - _02_sub_tiling_R1: {r: 5, g: 6, b: 0, a: 0}
+    - _03_sub_pram_R: {r: -1.61, g: 13.79, b: 12.65, a: 0.3}
+    - _03_sub_pram_R1: {r: 0, g: 1, b: 1, a: 1}
+    - _03_sub_tiling_R: {r: 5, g: 20.55, b: 0, a: 0}
+    - _03_sub_tiling_R1: {r: 3, g: 5, b: 0, a: 0}
+    - _04_sub_pram_R: {r: -0.1, g: 5.7, b: 9.15, a: 0.64}
+    - _04_sub_pram_R1: {r: 0, g: 1, b: 1, a: 1}
+    - _04_sub_tiling_R: {r: 2, g: 10, b: 0, a: 0}
+    - _04_sub_tiling_R1: {r: 3, g: 5, b: 0, a: 0}
+    - _05_base_pram_R: {r: 0.05, g: 1.2, b: 1, a: 1}
+    - _05_base_tiling_R: {r: 5, g: 20, b: 0, a: 0}
+    - _06_sub_pram_R: {r: 0, g: 1, b: 1, a: 1}
+    - _06_sub_tiling_R: {r: 5, g: 6, b: 0, a: 0}
+    - _07_sub_pram_R: {r: 0, g: 1, b: 1, a: 1}
+    - _07_sub_tiling_R: {r: 3, g: 5, b: 0, a: 0}
+    - _08_sub_pram_R: {r: 0, g: 1, b: 1, a: 1}
+    - _08_sub_tiling_R1: {r: 3, g: 5, b: 0, a: 0}
+    - _LR_TimeoffsetXoffset: {r: 0, g: 0.49, b: 0.11, a: -0.6}
+    - _LR_XoffsetTimeoffset: {r: 1.42, g: -0.09, b: 0.03, a: -0.63}
+    - _ONOFF_R: {r: 1, g: 1, b: 1, a: 1}
+    - _ONOFF_R_02: {r: 1, g: 0, b: 0, a: 0}
+    - _Vector0: {r: 9.28, g: 8.3, b: 0, a: 0}
+    - _Vector1: {r: 1.15, g: 5.96, b: 4, a: 0}
+    - _Vector2: {r: 0.8, g: 4.2, b: 3.1, a: 0}
+    - _Vector3: {r: 1.3, g: 3.69, b: 3.68, a: -1.2}
+    - _Vector4: {r: 1.1, g: 5, b: 4, a: 0}
+    - _Vector6: {r: 0, g: 15.6, b: 0, a: 0}
+    - _scale: {r: 1.4, g: 1, b: 0, a: 0}

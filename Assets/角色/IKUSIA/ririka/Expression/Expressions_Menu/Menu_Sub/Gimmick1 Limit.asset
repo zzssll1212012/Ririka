@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Gimmick1 Limit
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 9bf2485bac96035458605382b60de15d, type: 2}
+  controls:
+  - name: Face
+    icon: {fileID: 2800000, guid: 8e727848a32a1194d9c4a107b782d95a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3af0ba18ff3cfea49ab1cc848914ab37, type: 2}
+    subParameters: []
+    labels: []
+  - name: Breast_size
+    icon: {fileID: 2800000, guid: 05361e4325ab62249adbab10d9969231, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: BreastSize
+    labels: []
+  - name: camera
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 73e8ad1d7b4487f4f99ab922fafb6d09, type: 2}
+    subParameters: []
+    labels: []
+  - name: food
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2404a1cc6ee6ca74689e2323c9c9a608, type: 2}
+    subParameters: []
+    labels: []
+  - name: loli gimmik
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8f0aea9a000b49e41b58574277018680, type: 2}
+    subParameters: []
+    labels: []
+  - name: Pet
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef8690bdbd2e3a748a80190670d0e5e3, type: 2}
+    subParameters: []
+    labels: []

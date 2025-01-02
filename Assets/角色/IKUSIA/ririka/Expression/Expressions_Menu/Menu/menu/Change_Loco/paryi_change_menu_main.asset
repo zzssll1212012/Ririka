@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_change_menu_main
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: allreset
+    icon: {fileID: 2800000, guid: a4066724f975413468912a1ea255e502, type: 3}
+    type: 101
+    parameter:
+      name: paryi_change_all_reset
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: standing
+    icon: {fileID: 2800000, guid: 66a4308391b5af04995104e141c87f4b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 4
+    style: 0
+    subMenu: {fileID: 11400000, guid: a4c4634c571800646a1d2f77894fabf6, type: 2}
+    subParameters: []
+    labels: []
+  - name: crouching
+    icon: {fileID: 2800000, guid: 24fc4149bdc92d1438bea09eac274aa6, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 5
+    style: 0
+    subMenu: {fileID: 11400000, guid: b07885d8cff9e6e4aa57be1754350aa1, type: 2}
+    subParameters: []
+    labels: []
+  - name: prone
+    icon: {fileID: 2800000, guid: a3ad7eb7ee9858144b62eae96d1f7fdf, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 16907959f3556d94e9d8e80198316018, type: 2}
+    subParameters: []
+    labels: []
+  - name: floating
+    icon: {fileID: 2800000, guid: 531adb7e3bf44f04395a54f8ccb42951, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e20f550f4b727eb41ba02e54cf7f6f9b, type: 2}
+    subParameters: []
+    labels: []
+  - name: VRCEmote
+    icon: {fileID: 2800000, guid: 9a20b3a6641e1af4e95e058f361790cb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: edb509c01398f4246b7df4526941bc31, type: 2}
+    subParameters: []
+    labels: []
+  - name: AFK
+    icon: {fileID: 2800000, guid: 19fa95d0cdead0b4399624b182b807c5, type: 3}
+    type: 102
+    parameter:
+      name: paryi_AFK
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30B8\u30E3\u30F3\u30D7\u30E2\u30FC\u30B7\u30E7\u30F3OFF"
+    icon: {fileID: 2800000, guid: 626bef011c988c0479edde85ef6e2587, type: 3}
+    type: 102
+    parameter:
+      name: paryi_Jump_cancel
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_change_prone4
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: reset
+    icon: {fileID: 2800000, guid: a4066724f975413468912a1ea255e502, type: 3}
+    type: 101
+    parameter:
+      name: paryi_change_Prone
+    value: -1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone19
+    icon: {fileID: 2800000, guid: 993642fc2b72fac45b33b5e13cba0ac9, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Prone
+    value: 0.16
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone20
+    icon: {fileID: 2800000, guid: d9f97f273c771374fafe97937faa36a1, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Prone
+    value: 0.17
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone21
+    icon: {fileID: 2800000, guid: d1f097175573ec94aa63c9257cf6fea3, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Prone
+    value: 0.03
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone22
+    icon: {fileID: 2800000, guid: 9b95e101c9dc68949835bd3efc887778, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Prone
+    value: 0.04
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Prone23
+    icon: {fileID: 2800000, guid: 344ef777722fbb34aae6e6d623eec268, type: 3}
+    type: 102
+    parameter:
+      name: paryi_change_Prone
+    value: 0.06
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

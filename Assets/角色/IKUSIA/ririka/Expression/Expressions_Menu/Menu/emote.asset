@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: emote
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 9bf2485bac96035458605382b60de15d, type: 2}
+  controls:
+  - name: "\u59FF\u52E2\u5909\u66F4"
+    icon: {fileID: 2800000, guid: 87ca22cd315b2224399583a06fa8c99b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b83108839475e8a4ab7d5e6e179d493f, type: 2}
+    subParameters: []
+    labels: []
+  - name: Hand Animaton
+    icon: {fileID: 2800000, guid: 265bdd4129505514db31c1f181f6f42e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: aa6ff63300d4211448fb43ced2de743a, type: 2}
+    subParameters: []
+    labels: []
+  - name: IKUSIA_Loco
+    icon: {fileID: 2800000, guid: 265bdd4129505514db31c1f181f6f42e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: df147230bec971e46a7db5f259f965d0, type: 2}
+    subParameters: []
+    labels: []

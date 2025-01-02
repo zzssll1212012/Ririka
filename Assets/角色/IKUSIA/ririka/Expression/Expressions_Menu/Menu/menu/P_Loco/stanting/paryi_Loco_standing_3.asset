@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: paryi_Loco_standing_3
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Mirror
+    icon: {fileID: 2800000, guid: e2509189d17957b42a1234dc14879e92, type: 3}
+    type: 102
+    parameter:
+      name: Mirror
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing12
+    icon: {fileID: 2800000, guid: ce118bdc2a4f39c498c0b71570f26c30, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.01
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing13
+    icon: {fileID: 2800000, guid: 841035155ebb123418923f19fc736f2f, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.02
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing14
+    icon: {fileID: 2800000, guid: fb3e508d045020042bd556f4037d74d2, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.04
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing15
+    icon: {fileID: 2800000, guid: 2aeffbffe8aabf2449960ef549008854, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.17
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing16
+    icon: {fileID: 2800000, guid: 46a5e0e4abf90824facfa7950b99ecf9, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.18
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Standing17
+    icon: {fileID: 2800000, guid: f606a153906225c4a86a75dc9891f411, type: 3}
+    type: 102
+    parameter:
+      name: paryi_chang_Loco
+    value: 0.71
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
